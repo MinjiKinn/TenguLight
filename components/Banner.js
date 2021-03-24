@@ -15,7 +15,7 @@ export default function Review() {
         
         <div className="w-full py-40 text-center flex items-center justify-center bg-gray-100">
        
-        <h2 className="text-5xl max-w-2xl text-bold leading-tight text-bold bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
+        <h2 className="text-3xl max-w-2xl text-bold leading-tight text-bold bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
             『 MARS HYDRO 』 公式代理店</h2>
         </div>	
         

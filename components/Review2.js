@@ -9,7 +9,7 @@ export default function Review() {
 <div className="pb-16 bg-gradient-to-r bg-gray-800 lg:pb-0 lg:z-10 lg:relative">
             <div className="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-3 lg:gap-8">
               <div className="relative lg:-my-8">
-                {/* <div aria-hidden="true" className="absolute inset-x-0 top-0 h-1/2 bg-white lg:hidden" /> */}
+               
                 <div className="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:p-0 lg:h-full">
                   <div className="aspect-w-10 aspect-h-6 rounded-xl shadow-xl overflow-hidden sm:aspect-w-16 sm:aspect-h-7 lg:aspect-none lg:h-full">
               
@@ -29,8 +29,8 @@ export default function Review() {
                       </p>
                     </div>
                     <footer className="mt-6">
-                      <p className="text-base font-medium text-white">Amazonレビュー Fea***様</p>
-                      <p className="text-base font-medium text-red-700">MARS HYDRO TS600 購入</p>
+                      <p className="text-base font-medium text-white">Amazonレビュー Sat***様</p>
+                      <p className="text-base font-medium text-red-700">MARS HYDRO SP3000 購入</p>
                     </footer>
                   </blockquote>
                 </div>
