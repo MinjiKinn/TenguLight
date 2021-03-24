@@ -246,7 +246,7 @@ export default function Review() {
     <div className="flex flex-col rounded-lg shadow-lg overflow-hidden">
       <div className="flex-shrink-0">
        <Image
-        src="/../public/img/sf4000.png"
+        src="/img/sf4000.png"
         alt="Picture of the author"
         width={416}
         height={198}
