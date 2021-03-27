@@ -29,7 +29,7 @@ import "tailwindcss/colors";
 import Layout from "../components/Layout";
 
 function Home({ router }) {
-  const [isOpen, setIsOpen] = useState(false)
+
   return (
     <Layout>
       <Top />
