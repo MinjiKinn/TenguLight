@@ -21,15 +21,19 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 import { Carousel } from "react-responsive-carousel";
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
+import { Transition } from '@headlessui/react'
+import { useState } from 'react'
 
 import "tailwindcss/tailwind.css";
 import "tailwindcss/colors";
 import Layout from "../components/Layout";
 
 function Home({ router }) {
+  const [isOpen, setIsOpen] = useState(false)
   return (
     <Layout>
       <Top />
+ 
       <Main />
       
       <Brand />
