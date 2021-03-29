@@ -32,12 +32,12 @@ export default function Top() {
                   />
                 </svg>
               </a>
-              <h1 className="my-4 text-3xl md:text-5xl text-white opacity-75 font-bold leading-tight text-center md:text-left">
+              <h1 className="my-4 text-3xl md:text-5xl z-0 text-white opacity-75 font-bold leading-tight text-center md:text-left">
               関税なし 送料なし
               </h1>
-              <h1 className="my-4 text-3xl md:text-5xl text-white opacity-75 font-bold leading-tight text-center md:text-left">
+              <h1 className="my-4 text-3xl md:text-5xl md:z-0 text-white opacity-75 font-bold leading-tight text-center md:text-left">
                 
-                <span className="text-5xl md:text-8xl text-bold bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
+                <span className="text-5xl md:text-8xl text-bold md:z-0 bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
                 天狗ライト
                 </span>
                 
